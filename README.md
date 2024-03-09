@@ -28,3 +28,9 @@ We welcome contributions from fellow adventurers! Whether you're a developer, de
 
 Feedback
 We value your feedback and suggestions! If you have any ideas, feature requests, or bug reports, please don't hesitate to get in touch. Your input is invaluable as we strive to continually improve the Visionary Travellers platform for our community of travellers.
+
+
+
+"KEY FEATURE"
+<button class="hero-btn"><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206330.7848941743!2dlongitude!3dlatitude!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDMxJzIwLjkiTiA3OMKwMzInMDguOCJF!5e0!3m2!1sen!2sus!4v1636754250825!5m2!1sen!2sus" 
+            target="blank">Travel with us</a></button>
